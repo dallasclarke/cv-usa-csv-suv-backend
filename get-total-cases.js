@@ -1,7 +1,10 @@
+// Create getTotalCases function that will take in an array return total cases.
+// Now return the arr at [4]
 
 
-
-
+const getTotalCases = function (arr) {
+  return arr[4];
+}
 
 
 
